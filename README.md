@@ -1,7 +1,7 @@
 # Projeto fase1
-<h1>Projeto fase1</h1>
+<h1> *** RESUMO ***</h1>
 
-<h2>InformaÃ§Ãµes sobre o commit:</h2>
+<h2>Informações sobre o commit:</h2>
 
 <em>criado arquivo "Texto1.txt" comandos:</em><br/>
 <strong>1 - touch Texto.txt</strong><br/>
